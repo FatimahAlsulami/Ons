@@ -1,4 +1,4 @@
-🌙 أُنس (Ons)
+🌙  (Ons)
 
 Ons is a modern, bilingual (Arabic + English) web experience designed to guide users through the last ten nights of Ramadan (Days 21–30).
 
