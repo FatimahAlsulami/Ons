@@ -1,1 +1,0 @@
-export default function SoftCard({ className='', ...props }){ return <div className={`softCard ${className}`} {...props} /> }
